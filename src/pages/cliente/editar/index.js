@@ -77,7 +77,7 @@ class EditarCliente extends Component {
                                 type="text"
                                 id="salario"
                                 name="salario"
-                                placeholder="Matrícula"
+                                placeholder="Valor"
                                 min="1"
                                 max="99999"
                                 required
